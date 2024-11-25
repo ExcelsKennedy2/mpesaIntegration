@@ -19,7 +19,7 @@ For this project have used terminal and to do so, use the following commands
 	 2. django-admin startapp APP_NAME   (to run this ensure you're inside the project directory)
 
 after that go inside the settings file and install your app.
-configure your urls and you'll be ood to go
+configure your urls and you'll be good to go
   
 
 
